@@ -1,2 +1,4 @@
 # Colegio-Santo-Inacio
-Work from books of Colégio Santo Inácio
+Tarefas de exercicios das apostilas do Colégio Santo Inácio.
+Apostolic prayer to Colégio Santo Inácio.
+Apostille-Formulare für Colégio Santo Inácio.
